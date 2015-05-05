@@ -1,0 +1,8 @@
+prefix=/home/tyshao/Desktop/nodes/imagepub/install
+
+Name: image_transport_tutorial
+Description: Description of image_transport_tutorial
+Version: 0.0.0
+Cflags: -I/home/tyshao/Desktop/nodes/imagepub/install/include
+Libs: -L/home/tyshao/Desktop/nodes/imagepub/install/lib 
+Requires: 
